@@ -13,7 +13,7 @@
   - <a name="MVSEC"></a> MVSEC  [Dataset](https://daniilidis-group.github.io/mvsec) &emsp; size:10G <br>
     paper name: _[The Multi Vehicle Stereo Event Camera Dataset: An Event Camera Dataset for 3D Perception](https://ieeexplore.ieee.org/abstract/document/8288670)_, IEEE Robot. Autom. Lett.(RA-L), 2018.<br>
     features :  a synchronized stereo pair event based camera system, carried on a handheld rig, flown by a hexacopter, driven on top of a car, and mounted on a motorcycle,in a variety of different illumination levels and environments <br>
-    devices：DAVIS m346B, VI-Sensor(Skybotix integrated VI-sensor,stereo camera), Velodyne Puck LITE(VLP-16 PUCK LITE),GPS(UBLOX NEO-M8N)
+    devices：DAVIS m346B(stereo), VI-Sensor(Skybotix stereo camera), Velodyne Puck LITE(VLP-16 PUCK LITE),GPS(UBLOX NEO-M8N)
     
   - <a name="DSEC"></a> DSEC  [Dataset](http://rpg.ifi.uzh.ch/dsec.html) &emsp; size:10G <br>
     paper name: _[DSEC: A Stereo Event Camera Dataset for Driving Scenarios](https://ieeexplore.ieee.org/abstract/document/9387069)_, IEEE Robot. Autom. Lett.(RA-L),2021. <br>
