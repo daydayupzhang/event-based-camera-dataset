@@ -38,4 +38,6 @@
 
 ## Rank by Citations
 [EED](#EED)       &emsp; &emsp;     _202_ <br>
-[DSEC](#DSEC)      &emsp; &emsp;    _76_
+[DSEC](#DSEC)      &emsp; &emsp;    _76_ <br>
+[TUM-VIE](#TUM-VIE)&emsp; &emsp;    _19_ <br>
+[ViViD++](#ViViD++)  &emsp; &emsp;  _12_ <br>
