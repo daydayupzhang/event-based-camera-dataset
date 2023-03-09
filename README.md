@@ -60,3 +60,7 @@
 [DSEC](#DSEC)      &emsp; &emsp;    _76_ <br>
 [TUM-VIE](#TUM-VIE)&emsp; &emsp;    _19_ <br>
 [ViViD++](#ViViD++)  &emsp; &emsp;  _12_ <br>
+
+## Related Links
+[Teams and researchers in China](https://github.com/LarryDong/EventCameraGroupsCN)
+[Event-based Resources](https://github.com/uzh-rpg/event-based_vision_resources)
