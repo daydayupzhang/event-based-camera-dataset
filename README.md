@@ -62,5 +62,5 @@
 [ViViD++](#ViViD++)  &emsp; &emsp;  _12_ <br>
 
 ## Related Links
-[Teams and researchers in China](https://github.com/LarryDong/EventCameraGroupsCN)
+[Teams and researchers in China](https://github.com/LarryDong/EventCameraGroupsCN) <br>
 [Event-based Resources](https://github.com/uzh-rpg/event-based_vision_resources)
