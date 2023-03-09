@@ -8,13 +8,13 @@
     - <a name="DAVIS Data"></a> DAVIS Data  [Dataset](http://rpg.ifi.uzh.ch/davis_data.html) &emsp; size:59MB <br>
     paper name: _[The event-camera dataset and simulator: Event-based data for pose estimation, visual odometry, and SLAM](https://journals.sagepub.com/doi/full/10.1177/0278364917691115)_, IJRR, 2017.<br>
     features :  objects of multiple sizes moving at different speeds in a variety of lighting conditions indoor <br>
-    task: SLAM
+    task: __SLAM__ <br>
     devices：DAVIS240B
     
   - <a name="EED"></a> EED  [Dataset](http://prg.cs.umd.edu/BetterFlow.html) &emsp; size:59MB <br>
     paper name: _[Event-based Moving Object Detection and Tracking](https://ieeexplore.ieee.org/abstract/document/8593805)_, IROS, 2018.<br>
     features :  objects of multiple sizes moving at different speeds in a variety of lighting conditions indoor <br>
-    task: SLAM
+    task: __SLAM__ <br>
     devices：DAVIS240B
     
   - <a name="MVSEC"></a> MVSEC  [Dataset](https://daniilidis-group.github.io/mvsec) &emsp; size:27G <br>
