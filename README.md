@@ -29,7 +29,7 @@
   - <a name="ViViD++"></a> ViViD++  [Dataset](https://visibilitydataset.github.io/) &emsp; size:more than 250min <br>
     paper name: _[ViViD++ : Vision for Visibility Dataset](https://ieeexplore.ieee.org/abstract/document/9760091)_, RA-L,2022.
     <br>
-    features : handheld and head-mounted sequences in indoor and outdoor environments, including rapid motion during sports and high dynamic range scenarios <br>
+    features : developing robust visual SLAM under poor illumination <br>
     devices: mono event camera(Handheld DAVIS240C),Thermal,IMU,RGB-D; mono event camera(Driving DVXplorer),Thermal,RGB,RTK-GPS,Ouster OS1 LiDAR 
     
 - From Static Pictures
