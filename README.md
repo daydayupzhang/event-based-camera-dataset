@@ -41,7 +41,7 @@
     paper name: _[Combining Events and Frames Using Recurrent Asynchronous Multimodal Networks for Monocular Depth Prediction](https://ieeexplore.ieee.org/abstract/document/9359329)_, RA-L,2021.
     <br>
     features : events, intensity frames, semantic labels, and depth maps recorded in the CARLA simulator <br>
-    task: __SLAM__ __semantic segmentation__ __depth estimation__<br>
+    task: __SLAM，__ __semantic segmentation，__ __depth estimation__<br>
     devices:  CARLA simulator
     
   - <a name="ViViD++"></a> ViViD++  [Dataset](https://visibilitydataset.github.io/) &emsp; size:more than 250min <br>
