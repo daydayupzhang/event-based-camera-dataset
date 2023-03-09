@@ -40,7 +40,8 @@
     paper name: _[ViViD++ : Vision for Visibility Dataset](https://ieeexplore.ieee.org/abstract/document/9760091)_, RA-L,2022.
     <br>
     features : developing robust visual SLAM under poor illumination <br>
-    devices: mono event camera(Handheld DAVIS240C),Thermal,IMU,RGB-D; mono event camera(Driving DVXplorer),Thermal,RGB,RTK-GPS,Ouster OS1 LiDAR 
+    devices1: mono event camera(Handheld DAVIS240C),Thermal,IMU,RGB-D <br>
+    devices2: mono event camera(Driving DVXplorer),Thermal,RGB,RTK-GPS,Ouster OS1 LiDAR 
     
 
     
