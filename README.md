@@ -57,6 +57,12 @@
     devices1: mono event camera(Handheld DAVIS240C),Thermal,IMU,RGB-D <br>
     devices2: mono event camera(Driving DVXplorer),Thermal,RGB,RTK-GPS,Ouster OS1 LiDAR 
     
+  - <a name="EV-IMO2"></a> EV-IMO  [Dataset](http://prg.cs.umd.edu/EV-IMO.html) &emsp; size:~40G <br>
+    paper name: _[EVIMO2: An Event Camera Dataset for Motion Segmentation, Optical Flow, Structure from Motion, and Visual Inertial Odometry in Indoor Scenes with Monocular or Stereo Algorithms](https://arxiv.org/abs/2205.03467)_, arxiv, 2022.<br>
+    features :  temporal synchronization between sensors, less jitter, and a more efficient npz format <br>
+    task: __motion segmentation,__ __SfM,__ __Object Recognition__<br>
+    devices：2x Prophesee Gen3， Samsung Gen3, Prophesee ATIS Gen3
+    
 - From Static Pictures
   - N-Caltech101
   - N-Cars
