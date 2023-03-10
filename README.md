@@ -24,6 +24,12 @@
     task: __SLAM__ <br>
     devices：DAVIS m346B(stereo), VI-Sensor(stereo), Velodyne Puck LITE,GPS
     
+  - <a name="EV-IMO"></a> EV-IMO  [Dataset](http://prg.cs.umd.edu/EV-IMO.html) &emsp; size:~30G <br>
+    paper name: _[EV-IMO: Motion Segmentation Dataset and Learning Pipeline for Event Cameras](https://ieeexplore.ieee.org/abstract/document/8968520)_, IROS, 2019.<br>
+    features :  32 minutes of indoor recording with up to 3 fast moving objects in the camera field of view, including accurate pixel-wise motion masks, egomotion and ground truth depth. suitable for learning approach for motion segmentation in indoor scenes <br>
+    task: __motion segmentation__ <br>
+    devices：DAVIS 346C
+    
   - <a name="DSEC"></a> DSEC  [Dataset](http://rpg.ifi.uzh.ch/dsec.html) &emsp; size:~150G <br>
     paper name: _[DSEC: A Stereo Event Camera Dataset for Driving Scenarios](https://ieeexplore.ieee.org/abstract/document/9387069)_, IEEE Robot. Autom. Lett.(RA-L),2021. <br>
     features :driving under challenging illumination conditions such as night, sunrise, and sunset <br>
